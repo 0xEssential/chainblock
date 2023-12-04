@@ -66,13 +66,7 @@ const Slideshow = ({ flip }: { flip: () => void }): ReactElement => {
       chainId: 1,
       contractAddress: "0x18Adc812fE66B9381700C2217f0c9DC816c879E6",
       tokenId: 164n,
-      nftId: "cr",
-    },
-    {
-      chainId: 1,
-      contractAddress: "0xa7d8d9ef8D8Ce8992Df33D8b8CF4Aebabd5bD270",
-      tokenId: 280000369n,
-      nftId: "window",
+      nftId: "chaos roads",
     },
     {
       chainId: 1,
