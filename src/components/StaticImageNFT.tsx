@@ -2,7 +2,7 @@ import { erc721ABI, useContractRead } from "wagmi";
 
 import { useEffect, useState } from "react";
 import { NFTProps } from "./Collections";
-import { replaceIpfsUri } from "@/utils";
+import { replaceIpfsUri } from "@/lib/utils";
 import Image from "next/image";
 
 const StaticImageNFT = ({
